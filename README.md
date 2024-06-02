@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshil Baldha.</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv4efwDYARf5XR46l60ibliIEuSnj6oRFZA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilbaldha&label=Profile%20views&color=0e75b6&style=flat" alt="darshilbaldha" /> </p>
